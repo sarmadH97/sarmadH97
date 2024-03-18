@@ -68,6 +68,20 @@
       width="40"
       height="40"
     />
+<img
+      src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
+      title="CSharp"
+      alt="CSharp"
+      width="40"
+      height="40"
+    />
+<img
+      src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"
+      title="dot-net"
+      alt="dot-net"
+      width="40"
+      height="40"
+    />
   </div>
   <h3>Will be happy to collaborate with you!</h3>
 </div>
