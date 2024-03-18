@@ -55,7 +55,7 @@
       height="40"
     />
      <img
-      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
       title="tailwind"
       alt="tailwind"
       width="40"
