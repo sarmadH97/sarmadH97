@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXB1cHdiNnZwbHpqaTcxNjBwNTR4ZzV6azh1YXUzM3V2b2Ewa3ZneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif"
+    src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
     alt="boy coding"
     width="200"
   />
-  <h1>Hey! 👋 I'm Sarmad!</h1>
-  <h3>I am a Software Engineer(Frontend focused)with over 3 years of experience.</h3>
+  <h1>Hi there 👋 I'm Sarmad!</h1>
+  <h3>I am a Software Engineer(Frontend focused) with over 3 years of experience.</h3>
 </div>
 <div id="main" align="center">
   <p>
@@ -54,10 +54,10 @@
       width="40"
       height="40"
     />
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg"
-      title="Next.js"
-      alt="Next.js"
+     <img
+      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+      title="tailwind"
+      alt="tailwind"
       width="40"
       height="40"
     />
