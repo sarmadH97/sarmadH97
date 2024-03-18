@@ -9,7 +9,7 @@
 </div>
 <div id="main" align="center">
   <p>
-   I am a Software Engineert with a comprehensive background in both individual and collaborative development, specializing in client application development. My expertise lies primarily in JavaScript, Typescript, and ReactJS, encompassing a strong command of front-end technologies such as HTML5, CSS3, Tailwind, and responsive web design principles. Additionally, I possess extensive experience in utilizing C# (.NET) for backend development, alongside proficiency in SQL Server and MsSQL databases, emphasizing effective data structuring and management. I am highly motivated to explore new front-end technologies and continuously expand my skill set to stay abreast of the latest industry trends.
+   I am a Software Engineer with a comprehensive background in both individual and collaborative development, specializing in client application development. My expertise lies primarily in JavaScript, Typescript, and ReactJS, encompassing a strong command of front-end technologies such as HTML5, CSS3, Tailwind, and responsive web design principles. Additionally, I possess extensive experience in utilizing C# (.NET) for backend development, alongside proficiency in SQL Server and MsSQL databases, emphasizing effective data structuring and management. I am highly motivated to explore new front-end technologies and continuously expand my skill set to stay abreast of the latest industry trends.
   </p>
   <div>
     <img
