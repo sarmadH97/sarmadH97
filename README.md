@@ -20,20 +20,6 @@
       height="40"
     />
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
-      title="CSS3"
-      alt="CSS"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"
-      title="HTML5"
-      alt="HTML"
-      width="40"
-      height="40"
-    />
-    <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
       title="TypeScript"
       alt="TypeScript"
@@ -44,6 +30,20 @@
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
       title="React"
       alt="React"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
+      title="CSS3"
+      alt="CSS"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"
+      title="HTML5"
+      alt="HTML"
       width="40"
       height="40"
     />
